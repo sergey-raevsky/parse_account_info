@@ -119,7 +119,7 @@ account_info.each do |row|
 end
 
 sleep 2
-# Полученные данные форматиреум в json и выводим
+# Полученные данные форматиреум в json и выводим1
 tableJson = accounts.to_json
 p tableJson
 
